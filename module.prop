@@ -1,0 +1,7 @@
+id=TDH-JR
+name=TDH-JR ROM Debloater
+version=v1.0.20180101
+versionCode=1
+author=tdhite
+description=TDH-JR Stock Debloat for Samsung S6 Devices
+minMagisk=1510
